@@ -161,6 +161,10 @@ nav ul li a:hover{
         padding: 1px; 
         border-radius: 0px;
    }
+   #all-Section{
+        text-align: left;
+        padding: 40px 20px 40px 20px;
+   }
 } 
 
 
